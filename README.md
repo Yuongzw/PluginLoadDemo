@@ -1,0 +1,2 @@
+# PluginLoadDemo
+占位式插件化框架的实现，可以实现宿主Activity跳转插件Activity、插件Activity之间相互跳转，插件服务的注册，插件静态广播及动态广播的注册。
